@@ -991,7 +991,7 @@ footer {
         font-weight: 800 !important; /* Fuente extra gruesa */
         padding: 8px 0 !important; /* Más padding vertical */
         width: 100% !important;
-        background-color: rgba(244, 244, 243, 0.95) !important; /* Mismo color que el header */
+        background-color: rgba(255, 255, 255, 0.95) !important; /* Fondo blanco como estaba antes */
         text-shadow: 0px 0px 3px rgba(255,255,255,1) !important; /* Sombra de texto más pronunciada */
         letter-spacing: 0.8px !important; /* Mayor espaciado entre letras */
         border-top: 1px solid rgba(231, 90, 124, 0.3) !important; /* Borde superior sutil */
