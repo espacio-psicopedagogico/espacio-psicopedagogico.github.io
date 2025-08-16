@@ -1,4 +1,4 @@
-# Espacio Psicopedagógico - Anabela Albornoz
+# Espacio Psicopedagógico - Lic. Anabela Albornoz
 
 Este repositorio contiene el código fuente para la página web del Espacio Psicopedagógico de Anabela Albornoz.
 
