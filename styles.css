@@ -986,8 +986,8 @@ footer {
         content: 'Lic. Anabela Albornoz' !important;
         display: block !important;
         text-align: center !important;
-        font-size: 16px !important; /* Tamaño de fuente aún más grande */
-        color: #FF0066 !important; /* Rosa mucho más fuerte y vibrante */
+        font-size: 14px !important; /* Tamaño de fuente aún más grande */
+        color: #f7639e !important; /* Rosa mucho más fuerte y vibrante */
         font-weight: 800 !important; /* Fuente extra gruesa */
         padding: 8px 0 !important; /* Más padding vertical */
         width: 100% !important;
