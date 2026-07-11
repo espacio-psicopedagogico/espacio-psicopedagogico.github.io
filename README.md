@@ -2,6 +2,12 @@
 
 Este repositorio contiene el código fuente para la página web del Espacio Psicopedagógico de Anabela Albornoz.
 
+## Dominio público
+
+- Dominio objetivo: `https://espaciopsicopedagogico.tinagusia.com/`
+- URL histórica: `https://espacio-psicopedagogico.github.io/`
+- Runbook de migración y rollback: `docs/SUBDOMAIN_MIGRATION.md`
+
 ## Estructura del Proyecto
 
 - `index.html`: Archivo principal HTML
