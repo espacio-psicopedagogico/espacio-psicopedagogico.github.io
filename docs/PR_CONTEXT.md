@@ -6,6 +6,7 @@
 - Source branch: `feature/TINAGUSIA-289-subdomain-migration`
 - Target repository: `espacio-psicopedagogico/espacio-psicopedagogico.github.io`
 - Target branch: `main`
+- PR: https://github.com/espacio-psicopedagogico/espacio-psicopedagogico.github.io/pull/1
 
 ## Objective
 
